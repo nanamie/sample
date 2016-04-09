@@ -1,2 +1,2 @@
-echo "ƒeƒXƒg!!";
-echo "";
+echo "‚ ‚¢‚¤‚¦‚¨!!";
+echo "a";
