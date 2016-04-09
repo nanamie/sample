@@ -1,2 +1,2 @@
-echo "test!!";
-echo "test2"
+echo "テスト!!";
+echo "テスト2"
